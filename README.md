@@ -14,7 +14,7 @@
 
 Heya Explorer, I'm Harsh, a geek. I'm a sophomore at MIT, Manipal pursuing Information Technology. My interests lie in the domains of Machine Learning, Deep Learning and Computer Vision.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/PjJ1cLHqLEveXysGDB/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
 
 - 🌱 I’m currently learning Deep Learning
 - 💬 Ask me about Harry Potter
@@ -22,6 +22,7 @@ Heya Explorer, I'm Harsh, a geek. I'm a sophomore at MIT, Manipal pursuing Infor
 - ⚡ Fun fact: VIM is the best text editor
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecreator-hr&layout=compact" alt="itsnitigya" width="300" height="250" />
+
 
 <!--
 **thecreator-hr/thecreator-hr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
