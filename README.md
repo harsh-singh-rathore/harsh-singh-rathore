@@ -14,7 +14,7 @@
 
 Heya Explorer, I'm Harsh, a geek. I'm a sophomore at MIT, Manipal pursuing Information Technology. My interests lie in the domains of Machine Learning, Deep Learning and Computer Vision.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/PjJ1cLHqLEveXysGDB/giphy.gif"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
 
 - 🌱 I’m currently learning Deep Learning
 - 💬 Ask me about Harry Potter
