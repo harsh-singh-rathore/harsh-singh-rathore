@@ -12,7 +12,9 @@
 <br />
 <br />
 
-Heya Explorer, I'm Harsh, a geek. I'm a sophomore at MIT, Manipal pursuing Information Technology. My interests lie in the domains of Machine Learning, Deep Learning and Computer Vision.
+Heya Explorer, I'm Harsh, a geek. I'm Associate Software Engineer at Shell Bangalore.
+Manipal Institute of Technology, Manipal Alum. 
+My interests lie in the domains of Machine Learning, Deep Learning and Computer Vision.
 
   <img align="right" alt="BRAIN" src="https://github.com/thecreator-hr/thecreator-hr/blob/main/mygif.gif" width="500" height="300" />
 
