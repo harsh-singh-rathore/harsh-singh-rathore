@@ -6,20 +6,20 @@
 <a href="https://github.com/thecreator-hr">
   <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
 </a>
-<a href="https://www.instagram.com/thecreator_hr/">
+<a href="https://www.instagram.com/thisis_hsr/">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" />
 </a>
 <br />
 <br />
 
-Heya Explorer, I'm Harsh, a geek. I'm Associate Software Engineer at Shell Bangalore.
+Heya Explorer, I'm Harsh, a geek. I'm an Associate Software Engineer at Shell Bangalore.
 Manipal Institute of Technology, Manipal Alum. 
-My interests lie in the domains of Machine Learning, Deep Learning and Computer Vision.
+My interests lie in the domains of Deep Learning, Full Stack Development, and Distributed Systems as well.
 
   <img align="right" alt="BRAIN" src="https://github.com/thecreator-hr/thecreator-hr/blob/main/mygif.gif" width="500" height="300" />
 
 - 🌱 I’m currently learning Deep Learning
-- 💬 Ask me about Harry Potter
+- 💬 Ask me about the Cosmere Universe
 - 📫 e-mail me at: harathodhp@gmail.com
 - ⚡ Fun fact: VIM is the best text editor
 
